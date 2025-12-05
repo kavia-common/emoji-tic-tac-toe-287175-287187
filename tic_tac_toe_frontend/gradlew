@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Placeholder gradlew to satisfy CI until a real React Native project is added.
+echo "No Android Gradle project found in tic_tac_toe_frontend. Skipping Gradle tasks."
+exit 0

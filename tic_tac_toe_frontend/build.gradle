@@ -1,0 +1,14 @@
+buildscript {
+    repositories { mavenCentral() }
+    dependencies { }
+}
+
+allprojects {
+    repositories { mavenCentral() }
+}
+
+task placeholderBuild {
+    doLast {
+        println "Placeholder RN Android project - no-op build."
+    }
+}

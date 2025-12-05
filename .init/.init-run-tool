@@ -1,0 +1,4 @@
+{
+    "command": "npm run web -- --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/emoji-tic-tac-toe-287175-287187/tic_tac_toe_frontend"
+}
